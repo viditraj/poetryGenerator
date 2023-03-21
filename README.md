@@ -27,4 +27,5 @@ present in the form of a text file.
 ## Authors
 
 - [@Vidit Raj Singh](https://www.github.com/viditraj)
+- [@Jitendra Singh Bhadoria](https://www.linkedin.com/in/jitendrabhadoria)
 
